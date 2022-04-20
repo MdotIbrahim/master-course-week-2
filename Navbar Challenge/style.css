@@ -62,9 +62,6 @@ li {
 }
 
 @media screen and (max-width: 500px) {
-  ul{
-    flex-flow: column nowrap;
-}
   li {
     width:100%;
 }
